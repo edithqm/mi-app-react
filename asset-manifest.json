@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mi-app-react/%20./static/css/main.5f361e03.chunk.css",
+    "main.js": "/mi-app-react/%20./static/js/main.856da9b6.chunk.js",
+    "main.js.map": "/mi-app-react/%20./static/js/main.856da9b6.chunk.js.map",
+    "runtime-main.js": "/mi-app-react/%20./static/js/runtime-main.fcb04e0a.js",
+    "runtime-main.js.map": "/mi-app-react/%20./static/js/runtime-main.fcb04e0a.js.map",
+    "static/js/2.d008f8a9.chunk.js": "/mi-app-react/%20./static/js/2.d008f8a9.chunk.js",
+    "static/js/2.d008f8a9.chunk.js.map": "/mi-app-react/%20./static/js/2.d008f8a9.chunk.js.map",
+    "index.html": "/mi-app-react/%20./index.html",
+    "precache-manifest.371406e9058f54ebb2d2286c3a508858.js": "/mi-app-react/%20./precache-manifest.371406e9058f54ebb2d2286c3a508858.js",
+    "service-worker.js": "/mi-app-react/%20./service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mi-app-react/%20./static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d008f8a9.chunk.js.LICENSE.txt": "/mi-app-react/%20./static/js/2.d008f8a9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mi-app-react/%20./static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcb04e0a.js",
+    "static/js/2.d008f8a9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.856da9b6.chunk.js"
+  ]
+}
